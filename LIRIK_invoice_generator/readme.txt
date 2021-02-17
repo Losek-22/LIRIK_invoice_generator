@@ -1,4 +1,5 @@
 Invoice generator for Lirik (twitch.tv/lirik) by l8sek
+The code is just a fun, quick side project creating a PDF file with a given name, and then using imgur API to upload it and return an image link.
 
 0. place all contents into a single folder
 1. install Python (newest one will do), BE SURE TO CHECK "include in PATH" OR SOMETHING LIKE THAT DURING INSTALLATION

@@ -11,7 +11,6 @@ while True:
 	try:
 		# custom data going into the form
 		input_name = input("Input the person's name:\n")
-		#input_name = 'buddha'
 		today = date.today()
 		tomorrow = today + datetime.timedelta(days=1)
 
